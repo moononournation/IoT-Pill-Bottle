@@ -1,2 +1,2 @@
 # IoT-Pill-Bottle
-Use IoT monitor patient take pill behavior and check pill fill status
+Use ESP8266 monitor patient take pill behavior and check pill fill status
